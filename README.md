@@ -1,4 +1,4 @@
-storyboard-example
+test-storyboard
 ==================
 
 tnx for tutorials:
