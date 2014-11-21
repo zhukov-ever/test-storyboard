@@ -466,6 +466,7 @@
 				113D22441A1CC8EA00A5180B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		113D22451A1CC8EA00A5180B /* Build configuration list for PBXNativeTarget "testProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -474,6 +475,7 @@
 				113D22471A1CC8EA00A5180B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
